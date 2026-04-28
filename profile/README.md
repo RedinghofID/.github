@@ -1,4 +1,4 @@
-# RedingenhofID
+# Redingenhof ID
 
 We starten met de ontwikkeling van **RedingenhofID**.
 
